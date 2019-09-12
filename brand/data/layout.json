@@ -1,0 +1,9 @@
+{
+  "test": "This is from a local data file, yay!",
+  "topMenu": [
+    { "name": "Home", "url": "/" },
+    { "name": "About", "url": "/about" },
+    { "name": "Blog", "url": "/blog" },
+    { "name": "Contact", "url": "/contact" }
+  ]
+}
